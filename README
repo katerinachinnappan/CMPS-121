@@ -1,0 +1,20 @@
+The class consists in a hands-on introduction to Android application development. Topics include:
+Introduction to the class, and to creating mobile applications.
+Apache Cordova: your app as a single-page web page.
+Javascript.
+Vue.js
+How to organize a single-page app.
+Building a server API.
+Basic structure of Android applications.
+Applications and activities. 
+Activities life-cycle and threads of control.
+User interface elements: views, layouts, buttons, widgets.
+Preferences, saving state.
+Webviews.
+Sharing state across activities.
+Using the internet, and background asynchronous processing.
+File access. 
+Communication with cloud servers. User authentication, login, data communication.  
+Services and working in the background.
+Sensors.
+Building simple animations.
