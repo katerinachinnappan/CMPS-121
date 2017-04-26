@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Homework2</string>
+    <string name="action_settings">Settings</string>
+    <string name="first_activity_hello">Hello, you are in the first activity.</string>
+    <string name="gostring1">Activity1</string>
+    <string name="gostring2">Activity2</string>
+    <string name="gostring3">Activity3</string>
+    <string name="returnGo">RETURN</string>
+    <string name="title_activity_second">SecondActivity</string>
+    <string name="second_activity_hello">Hello, you are in the second activity.</string>
+    <string name="back">Back</string>
+</resources>
